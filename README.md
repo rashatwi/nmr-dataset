@@ -6,7 +6,7 @@ This GitHub repository contains the dataset accompanying the following manuscrip
 The dataset includes the Nuclear Magnetic Resonance (NMR) tensors and chemical 
 shifts computed using our automated computational framework that combines density 
 functional theory (DFT) with classical molecular dynamics (MD) simulations as 
-implemented in the MISPR high-throughput infrastructure. \
+implemented in the MISPR high-throughput infrastructure. 
 
 The data corresponds to solvation structures for a magnesium bis(trifluoromethanesulfonyl)imide Mg(TFSI)2 in 
 dimethoxyethane (DME) solvent, which is a common electrolyte system for Mg-based 
