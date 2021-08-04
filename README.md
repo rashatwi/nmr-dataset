@@ -7,9 +7,10 @@ The dataset includes the Nuclear Magnetic Resonance (NMR) tensors and chemical
 shifts computed using our automated computational framework that combines density 
 functional theory (DFT) with classical molecular dynamics (MD) simulations as 
 implemented in the MISPR high-throughput infrastructure. \
+
 The data corresponds to solvation structures for a magnesium bis(trifluoromethanesulfonyl)imide Mg(TFSI)2 in 
 dimethoxyethane (DME) solvent, which is a common electrolyte system for Mg-based 
-batteries.
+batteries. Solvation structures were extracted from MD simulations at 25 °C, 1 atm, and a salt:solvent ratio of 1:18. 
 
 # DFT Benchmarking Study
 The benchmarking study includes almost 1,000 DFT calculations. It involves the 
@@ -21,6 +22,8 @@ following combinations of functionals, basis sets, and implicit solvation models
 | M06-2X | 6-311++G** | SMD
 | PBE1PBE  | def2-TZVP
 | wB97X | 
+
+# Data Description 
 
 # Contact 
 If you have any questions, you can reach the author at the following e-mail:
