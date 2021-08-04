@@ -11,8 +11,8 @@ The data corresponds to solvation structures for a magnesium bis(trifluoromethan
 dimethoxyethane (DME) solvent, which is a common electrolyte system for Mg-based 
 batteries.
 
-The benchmarking study involves the following combinations of functionals, basis sets, and implicit solvation models: 
-
+# DFT Benchmarking Study
+The benchmarking study involves the following combinations of functionals, basis sets, and implicit solvation models:
 
 | Functional    | Basis Set | Solvation Model 
 | ------------- | ------------- | -------------
