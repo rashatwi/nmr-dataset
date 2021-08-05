@@ -1,7 +1,11 @@
-**ch_shifts.csv**: 
-  * 13C and 1H chemical shifts of the top six configurations of 
-  Mg(TFSI)2/DME at different DFT levels of theory using the PCM solvation model and 
-  different cluster sizes of DMSO and H2O as chemical references 
+**json-files.zip**:
+* Database of chemical shifts resulting from the benchmarking study in the form of json 
+files. 
+
+**ch_shifts.csv**:
+* 13C and 1H chemical shifts of the top six configurations of Mg(TFSI)2/DME at 
+different DFT levels of theory using the PCM solvation model and different cluster 
+sizes of DMSO and H2O as chemical references 
 
 **ch_tensors.csv**:
 * 13C and 1H isotropic chemical shieldings of the top six configurations 
@@ -19,7 +23,7 @@ at different DFT levels of theory and using the PCM solvation model. The "cluste
 corresponds to the number of DME molecules considered 
 
 **dmso_tensors.csv**: 
-* 13C isotropic chemical shieldings of different DMSO cluster sizes (n = 1-3, 4, 6) at 
+* 13C isotropic chemical shieldings of different DMSO cluster sizes (n = 1-4, 6) at 
 different DFT levels of theory and using the PCM solvation model 
 
 **mg_shifts.csv**: 
