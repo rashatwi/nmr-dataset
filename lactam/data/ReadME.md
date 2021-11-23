@@ -1,5 +1,5 @@
 
-ch_tensors.csv:
+ch_shifts.csv:
 
 Gibbs free energy (kcal/mol), Boltzmann weights, absolute and weighted <sup>13</sup>C and <sup>1</sup>H NMR chemical shifts (ppm) of different conformers of penam β-lactams 1 through 4 at the following levels of theory:
 * B3LYP/6-311+G(2d, p)
