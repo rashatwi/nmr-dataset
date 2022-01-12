@@ -8,13 +8,12 @@ shifts computed using our automated computational framework that combines densit
 functional theory (DFT) with classical molecular dynamics (MD) simulations as 
 implemented in the MISPR high-throughput infrastructure. 
 
-The data corresponds to solvation structures for a magnesium bis(trifluoromethanesulfonyl)imide Mg(TFSI)2 in 
-dimethoxyethane (DME) solvent, which is a common electrolyte system for Mg-based 
+The lactam data corresponds to different conformers of penam β-lactams in chloroform solvent. The electrolyte data corresponds to solvation structures for a magnesium bis(trifluoromethanesulfonyl)imide Mg(TFSI)2 in dimethoxyethane (DME) solvent, which is a common electrolyte system for Mg-based 
 batteries. Solvation structures were extracted from MD simulations at 25 °C, 1 atm, and a salt:solvent ratio of 1:18. 
 
 # DFT Benchmarking Study
-The benchmarking study includes almost 1,000 DFT calculations. It involves the 
-following combinations of functionals, basis sets, and implicit solvation models:
+The benchmarking study on the electrolyte system includes almost 1,000 DFT calculations. It involves
+combinations of the following functionals, basis sets, and implicit solvation models:
 
 | Functional    | Basis Set | Solvation Model 
 | ------------- | ------------- | -------------
@@ -22,8 +21,6 @@ following combinations of functionals, basis sets, and implicit solvation models
 | M06-2X | 6-311++G** | SMD
 | PBE1PBE  | def2-TZVP
 | wB97X | 
-
-# Data Description 
 
 # Contact 
 If you have any questions, you can reach the author at the following e-mail:
