@@ -41,6 +41,8 @@ model. Mg(H2O)6, (DMSO)2, and (H2O)8 are used as the chemical references for 25M
 (n = 1-4, 6, 8, 10, 12) at different DFT levels of theory and using the PCM solvation 
 model 
 
+**mg_exp_spectrum.csv**:
+* 25Mg chemical shift experimental data
 
 **Note**: avg and max correspond to the type of the isotropic shielding tensor of the 
 chemical reference 
